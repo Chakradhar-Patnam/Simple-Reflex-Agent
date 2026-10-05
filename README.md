@@ -139,18 +139,6 @@ The agent moves to Room A and cleans it.
 - Simple Reflex Agent Architecture
 - Rule-Based Decision Making
 
-## Project Structure
-
-```text
-Simple-Reflex-Agent/
-│
-├── README.md
-├── simple_reflex_agent.ipynb
-└── simple_reflex_agent.py
-```
-
-The exact files may vary depending on the implementation.
-
 ## Key Concepts Demonstrated
 
 This project demonstrates several fundamental concepts in Artificial Intelligence:
